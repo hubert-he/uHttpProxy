@@ -1,5 +1,7 @@
 # uHttpProxy
 uHttpProxy是一个Embedded HTTP Proxy
+====
+主要特性
 1. 支持HTTP HTTPS FTP
 2. 单进程，异步IO
 3. 性能优良，可同时支持30台机器大流量的代理访问（在2M/16M的osk-RTOS）
